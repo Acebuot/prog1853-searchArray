@@ -1,0 +1,20 @@
+C:\Users\cliff\Desktop\InClass Example - ArraySearchMethod (Start)\InClass_ArraySearchMethod\bin\Debug\InClass_ArraySearchMethod.exe.config
+C:\Users\cliff\Desktop\InClass Example - ArraySearchMethod (Start)\InClass_ArraySearchMethod\bin\Debug\InClass_ArraySearchMethod.exe
+C:\Users\cliff\Desktop\InClass Example - ArraySearchMethod (Start)\InClass_ArraySearchMethod\bin\Debug\InClass_ArraySearchMethod.pdb
+C:\Users\cliff\Desktop\InClass Example - ArraySearchMethod (Start)\InClass_ArraySearchMethod\obj\Debug\InClass_ArraySearchMethod.csprojAssemblyReference.cache
+C:\Users\cliff\Desktop\InClass Example - ArraySearchMethod (Start)\InClass_ArraySearchMethod\obj\Debug\InClass_ArraySearchMethod.FrmArrayMethod.resources
+C:\Users\cliff\Desktop\InClass Example - ArraySearchMethod (Start)\InClass_ArraySearchMethod\obj\Debug\InClass_ArraySearchMethod.Properties.Resources.resources
+C:\Users\cliff\Desktop\InClass Example - ArraySearchMethod (Start)\InClass_ArraySearchMethod\obj\Debug\InClass_ArraySearchMethod.csproj.GenerateResource.cache
+C:\Users\cliff\Desktop\InClass Example - ArraySearchMethod (Start)\InClass_ArraySearchMethod\obj\Debug\InClass_ArraySearchMethod.csproj.CoreCompileInputs.cache
+C:\Users\cliff\Desktop\InClass Example - ArraySearchMethod (Start)\InClass_ArraySearchMethod\obj\Debug\InClass_ArraySearchMethod.exe
+C:\Users\cliff\Desktop\InClass Example - ArraySearchMethod (Start)\InClass_ArraySearchMethod\obj\Debug\InClass_ArraySearchMethod.pdb
+C:\Users\Xoe\OneDrive - NC\Desktop\2nd Sem\S20 PROG1853-01 Object-Oriented Software\Week 4\Week 04 - ArraySearchMethod (Done)\Week 04 - ArraySearchMethod (Done)\InClass_ArraySearchMethod\bin\Debug\InClass_ArraySearchMethod.exe.config
+C:\Users\Xoe\OneDrive - NC\Desktop\2nd Sem\S20 PROG1853-01 Object-Oriented Software\Week 4\Week 04 - ArraySearchMethod (Done)\Week 04 - ArraySearchMethod (Done)\InClass_ArraySearchMethod\bin\Debug\InClass_ArraySearchMethod.exe
+C:\Users\Xoe\OneDrive - NC\Desktop\2nd Sem\S20 PROG1853-01 Object-Oriented Software\Week 4\Week 04 - ArraySearchMethod (Done)\Week 04 - ArraySearchMethod (Done)\InClass_ArraySearchMethod\bin\Debug\InClass_ArraySearchMethod.pdb
+C:\Users\Xoe\OneDrive - NC\Desktop\2nd Sem\S20 PROG1853-01 Object-Oriented Software\Week 4\Week 04 - ArraySearchMethod (Done)\Week 04 - ArraySearchMethod (Done)\InClass_ArraySearchMethod\obj\Debug\InClass_ArraySearchMethod.csprojAssemblyReference.cache
+C:\Users\Xoe\OneDrive - NC\Desktop\2nd Sem\S20 PROG1853-01 Object-Oriented Software\Week 4\Week 04 - ArraySearchMethod (Done)\Week 04 - ArraySearchMethod (Done)\InClass_ArraySearchMethod\obj\Debug\InClass_ArraySearchMethod.FrmArrayMethod.resources
+C:\Users\Xoe\OneDrive - NC\Desktop\2nd Sem\S20 PROG1853-01 Object-Oriented Software\Week 4\Week 04 - ArraySearchMethod (Done)\Week 04 - ArraySearchMethod (Done)\InClass_ArraySearchMethod\obj\Debug\InClass_ArraySearchMethod.Properties.Resources.resources
+C:\Users\Xoe\OneDrive - NC\Desktop\2nd Sem\S20 PROG1853-01 Object-Oriented Software\Week 4\Week 04 - ArraySearchMethod (Done)\Week 04 - ArraySearchMethod (Done)\InClass_ArraySearchMethod\obj\Debug\InClass_ArraySearchMethod.csproj.GenerateResource.cache
+C:\Users\Xoe\OneDrive - NC\Desktop\2nd Sem\S20 PROG1853-01 Object-Oriented Software\Week 4\Week 04 - ArraySearchMethod (Done)\Week 04 - ArraySearchMethod (Done)\InClass_ArraySearchMethod\obj\Debug\InClass_ArraySearchMethod.csproj.CoreCompileInputs.cache
+C:\Users\Xoe\OneDrive - NC\Desktop\2nd Sem\S20 PROG1853-01 Object-Oriented Software\Week 4\Week 04 - ArraySearchMethod (Done)\Week 04 - ArraySearchMethod (Done)\InClass_ArraySearchMethod\obj\Debug\InClass_ArraySearchMethod.exe
+C:\Users\Xoe\OneDrive - NC\Desktop\2nd Sem\S20 PROG1853-01 Object-Oriented Software\Week 4\Week 04 - ArraySearchMethod (Done)\Week 04 - ArraySearchMethod (Done)\InClass_ArraySearchMethod\obj\Debug\InClass_ArraySearchMethod.pdb
